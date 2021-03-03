@@ -1,1 +1,1 @@
-from .dfg import dfg
+from .dfg import dfg  # noqa: F401
